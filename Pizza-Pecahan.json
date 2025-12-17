@@ -16,7 +16,7 @@
     "pixelsRounding": false,
     "projectUuid": "977128cc-b293-4814-a1fa-66b21a1c8414",
     "scaleMode": "linear",
-    "sizeOnStartupMode": "adaptWidth",
+    "sizeOnStartupMode": "",
     "templateSlug": "",
     "version": "1.0.0",
     "name": "Pizza-Pecahan",
@@ -80,7 +80,10 @@
     "authorIds": [],
     "authorUsernames": [],
     "categories": [],
-    "playableDevices": ["mobile", "mobile"],
+    "playableDevices": [
+      "mobile",
+      "mobile"
+    ],
     "extensionProperties": [],
     "platforms": [
       {
@@ -130,22 +133,930 @@
         "name": "Ellipse 165.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Background/Asset 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background\\Asset 4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Settings button/Play/Group 299.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Settings button\\Play\\Group 299.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Penghargaan/Group 292.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penghargaan\\Group 292.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Penghargaan/Group 293.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penghargaan\\Group 293.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Koki/Group 252.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Koki\\Group 252.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Judul/Group 245.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Judul\\Group 245.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Settings button/Settings/Group 294.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Settings button\\Settings\\Group 294.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Settings button/Settings/Group 295.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Settings button\\Settings\\Group 295.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Settings button/Settings/Group 296.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Settings button\\Settings\\Group 296.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Settings button/Settings/Group 297.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Settings button\\Settings\\Group 297.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Settings button/Settings/Group 311.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Settings button\\Settings\\Group 311.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Toping/Full/Group 209.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Toping\\Full\\Group 209.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Toping/Setengah/Group 210.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Toping\\Setengah\\Group 210.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Toping/Kosong/Group 301.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Toping\\Kosong\\Group 301.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Toping/Full/Group 217.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Toping\\Full\\Group 217.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Toping/Setengah/Group 218.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Toping\\Setengah\\Group 218.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Roti/Group 240.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Roti\\Group 240.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Saus/sauss.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Saus\\sauss.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Saus/SAUS.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Saus\\SAUS.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Keju/Group 312.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Keju\\Group 312.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Keju/KEJU.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Keju\\KEJU.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Pepperoni/Group 87.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Pepperoni\\Group 87.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Pepperoni/Group 87-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Pepperoni\\Group 87-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Pepperoni/Group 87-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Pepperoni\\Group 87-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Pepperoni/Group 87-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Pepperoni\\Group 87-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Pepperoni/Group 88.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Pepperoni\\Group 88.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Pepperoni/Group 88-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Pepperoni\\Group 88-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Pepperoni/Group 88-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Pepperoni\\Group 88-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Pepperoni/Group 88-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Pepperoni\\Group 88-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Pepperoni/Group 89.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Pepperoni\\Group 89.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Pepperoni/Group 89-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Pepperoni\\Group 89-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Pepperoni/Group 89-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Pepperoni\\Group 89-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Pepperoni/Group 89-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Pepperoni\\Group 89-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Paprika/Subtract.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Paprika\\Subtract.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Paprika/Subtract-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Paprika\\Subtract-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Paprika/Subtract-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Paprika\\Subtract-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Paprika/Subtract-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Paprika\\Subtract-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Paprika/Subtract-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Paprika\\Subtract-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Paprika/Subtract-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Paprika\\Subtract-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Paprika/Subtract-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Paprika\\Subtract-6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Paprika/Subtract-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Paprika\\Subtract-7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Paprika/Subtract-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Paprika\\Subtract-8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Paprika/Subtract-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Paprika\\Subtract-9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Paprika/Subtract-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Paprika\\Subtract-10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Paprika/Subtract-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Paprika\\Subtract-11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Jamur/Group 99.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Jamur\\Group 99.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Jamur/Group 100.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Jamur\\Group 100.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Jamur/Group 101.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Jamur\\Group 101.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Jamur/Group 102.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Jamur\\Group 102.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Jamur/Group 103.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Jamur\\Group 103.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Jamur/Group 104.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Jamur\\Group 104.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Jamur/Group 105.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Jamur\\Group 105.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Jamur/Group 106.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Jamur\\Group 106.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Jamur/Group 107.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Jamur\\Group 107.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Jamur/Group 108.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Jamur\\Group 108.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Jamur/Group 109.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Jamur\\Group 109.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Mentahan/Jamur/Group 110.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Mentahan\\Jamur\\Group 110.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Background/Asset 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background\\Asset 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Background/Group 181.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background\\Group 181.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Anak perempuan/Group 127.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Anak perempuan\\Group 127.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Anak perempuan/Group 128.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Anak perempuan\\Group 128.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Anak perempuan/Group 126.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Anak perempuan\\Group 126.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Anak laki-laki/Group 179.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Anak laki-laki\\Group 179.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Anak laki-laki/Group 176.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Anak laki-laki\\Group 176.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Anak laki-laki/Group 177.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Anak laki-laki\\Group 177.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Ibu-ibu/Group 206.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Ibu-ibu\\Group 206.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Ibu-ibu/Group 198.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Ibu-ibu\\Group 198.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Ibu-ibu/Group 207.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Ibu-ibu\\Group 207.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Kakek-kakek/Group 184.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Kakek-kakek\\Group 184.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Kakek-kakek/Group 185.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Kakek-kakek\\Group 185.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Kakek-kakek/Group 186.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Kakek-kakek\\Group 186.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Nenek-nenek/Group 233.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Nenek-nenek\\Group 233.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Nenek-nenek/Group 234.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Nenek-nenek\\Group 234.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Karakter/Nenek-nenek/Group 236.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Karakter\\Nenek-nenek\\Group 236.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Box chat/Rectangle 181.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box chat\\Rectangle 181.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Box chat/Group 308.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box chat\\Group 308.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Box chat/Group 309.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box chat\\Group 309.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Font/LilitaOne-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Font\\LilitaOne-Regular.ttf",
+        "userAdded": false
       }
     ]
   },
-  "objects": [],
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "PizzaPolos2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "checkCollisionMask": true,
+          "name": "Draggable",
+          "type": "DraggableBehavior::Draggable"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Mentahan\\Roti\\Group 240.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 56.5,
+                        "y": 50
+                      },
+                      {
+                        "x": 177.5,
+                        "y": 4
+                      },
+                      {
+                        "x": 304.5,
+                        "y": 55
+                      },
+                      {
+                        "x": 359.5,
+                        "y": 173
+                      },
+                      {
+                        "x": 322.5,
+                        "y": 293
+                      },
+                      {
+                        "x": 191.5,
+                        "y": 357
+                      },
+                      {
+                        "x": 61.5,
+                        "y": 304
+                      },
+                      {
+                        "x": 12.5,
+                        "y": 178
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Pep1A",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "Pep1X",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Pep1Y",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Draggable",
+          "type": "DraggableBehavior::Draggable",
+          "checkCollisionMask": true
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Mentahan\\Pepperoni\\Group 87.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 39,
+                        "y": 0
+                      },
+                      {
+                        "x": 39,
+                        "y": 39
+                      },
+                      {
+                        "x": 0,
+                        "y": 39
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "PizzaPolos3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "checkCollisionMask": true,
+          "name": "Draggable",
+          "type": "DraggableBehavior::Draggable"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Mentahan\\Roti\\Group 240.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 56.5,
+                        "y": 50
+                      },
+                      {
+                        "x": 177.5,
+                        "y": 4
+                      },
+                      {
+                        "x": 304.5,
+                        "y": 55
+                      },
+                      {
+                        "x": 359.5,
+                        "y": 173
+                      },
+                      {
+                        "x": 322.5,
+                        "y": 293
+                      },
+                      {
+                        "x": 191.5,
+                        "y": 357
+                      },
+                      {
+                        "x": 61.5,
+                        "y": 304
+                      },
+                      {
+                        "x": 12.5,
+                        "y": 178
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "PizzaPolos2"
+      },
+      {
+        "objectName": "PizzaPolos3"
+      },
+      {
+        "objectName": "Pep1A"
+      }
+    ]
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "Pep1X",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "Pep1Y",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/home"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/kasir"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/game"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/game2"
     }
   ],
   "externalEvents": [],
-  "eventsFunctionsExtensions": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/buttonstates"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/shakeobject"
+    }
+  ],
   "externalLayouts": []
 }
