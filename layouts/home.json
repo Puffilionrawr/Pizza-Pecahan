@@ -1,13 +1,13 @@
 {
-  "b": 209,
+  "b": 255,
   "disableInputWhenNotFocused": true,
   "mangledName": "Home",
   "name": "Home",
-  "r": 209,
+  "r": 255,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
   "title": "",
-  "v": 209,
+  "v": 255,
   "uiSettings": {
     "grid": false,
     "gridType": "rectangular",
@@ -20,41 +20,13 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.35534345588169924,
+    "zoomFactor": 0.4194339782759073,
     "windowMask": false,
     "selectedLayer": ""
   },
-  "objectsGroups": [
-    {
-      "name": "SettingsGroup",
-      "objects": [
-        {
-          "name": "Sound"
-        },
-        {
-          "name": "Home"
-        }
-      ]
-    }
-  ],
+  "objectsGroups": [],
   "variables": [],
   "instances": [
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "BG",
-      "persistentUuid": "6e6de221-1c68-498e-ad93-d91ffb4455b5",
-      "width": 0,
-      "x": 0,
-      "y": 0,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
     {
       "angle": 0,
       "customSize": false,
@@ -159,8 +131,40 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
+      "name": "BG1",
+      "persistentUuid": "6a068d40-e7ae-457c-8b90-a483fe3e3896",
+      "width": 0,
+      "x": 0,
+      "y": -1500,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BG2",
+      "persistentUuid": "29cf2091-f6e7-41e7-bb08-4992f70ec6b8",
+      "width": 0,
+      "x": 0,
+      "y": 1500,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
       "name": "Home",
-      "persistentUuid": "9da75856-1fa4-48d1-a38e-ed3a0e37d150",
+      "persistentUuid": "21dc2502-2813-4a0e-96a7-dfb13e32cc78",
       "width": 0,
       "x": 1153,
       "y": 269,
@@ -174,12 +178,17 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "BG",
+      "name": "BG1",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -191,7 +200,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Background\\Asset 4.png",
+                  "image": "Background\\Group 320.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -211,11 +220,11 @@
                         "y": 0
                       },
                       {
-                        "x": 1280,
+                        "x": 1188,
                         "y": 0
                       },
                       {
-                        "x": 1280,
+                        "x": 1188,
                         "y": 720
                       },
                       {
@@ -956,13 +965,81 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "BG2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Background\\Group 319.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 92,
+                        "y": 0
+                      },
+                      {
+                        "x": 1280,
+                        "y": 0
+                      },
+                      {
+                        "x": 1280,
+                        "y": 720
+                      },
+                      {
+                        "x": 92,
+                        "y": 720
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
     "folderName": "__ROOT",
     "children": [
       {
-        "objectName": "BG"
+        "objectName": "BG1"
+      },
+      {
+        "objectName": "BG2"
       },
       {
         "objectName": "Play"
@@ -1034,11 +1111,25 @@
             "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
           },
           "parameters": [
-            "Judul",
+            "BG1",
             "Tween",
             "\"opening\"",
-            "Judul.Y",
-            "\"easeOutBack\"",
+            "0",
+            "\"easeOutCubic\"",
+            "0.8",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "BG2",
+            "Tween",
+            "\"opening\"",
+            "0",
+            "\"easeOutCubic\"",
             "0.8",
             ""
           ]
@@ -1049,6 +1140,28 @@
           },
           "parameters": [
             "0.8"
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Judul",
+            "Tween",
+            "\"opening\"",
+            "Judul.Y",
+            "\"easeOutBack\"",
+            "0.6",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "0.6"
           ]
         },
         {
@@ -1482,6 +1595,39 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ButtonStates::ButtonFSM::IsClicked"
+          },
+          "parameters": [
+            "Play",
+            "ButtonFSM",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Kasir\"",
+            ""
+          ]
+        }
+      ]
     }
   ],
   "layers": [
@@ -1587,6 +1733,10 @@
     {
       "name": "ShakeObject_PositionAngle",
       "type": "ShakeObject::ShakeObject_PositionAngle"
+    },
+    {
+      "name": "Sticker",
+      "type": "Sticker::Sticker"
     },
     {
       "name": "Tween",
