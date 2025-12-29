@@ -20,7 +20,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2517893302251417,
+    "zoomFactor": 0.08712433571804232,
     "windowMask": false,
     "selectedLayer": ""
   },
@@ -612,7 +612,7 @@
       "persistentUuid": "dc82dbb7-d231-460d-8cdb-3bc80ae93b82",
       "width": 0,
       "x": 1480,
-      "y": -1500,
+      "y": 0,
       "zOrder": 21,
       "numberProperties": [],
       "stringProperties": [],
@@ -629,7 +629,7 @@
       "persistentUuid": "8f47726c-9261-4e6a-8838-8461136e58f7",
       "width": 1280,
       "x": 1480,
-      "y": 1500,
+      "y": 0,
       "zOrder": 20,
       "numberProperties": [],
       "stringProperties": [],
@@ -1045,7 +1045,7 @@
       "persistentUuid": "0c276c69-5202-40c9-9a25-b126ce50fb7d",
       "width": 0,
       "x": -1480,
-      "y": -1500,
+      "y": 0,
       "zOrder": 42,
       "numberProperties": [],
       "stringProperties": [],
@@ -1061,7 +1061,7 @@
       "persistentUuid": "e9fecf75-304a-41ea-af96-99439bfee1d7",
       "width": 0,
       "x": -1480,
-      "y": 1500,
+      "y": 0,
       "zOrder": 43,
       "numberProperties": [],
       "stringProperties": [],
@@ -6087,6 +6087,7 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -6620,6 +6621,7 @@
       "type": "BuiltinCommonInstructions::Group",
       "events": [
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -10122,6 +10124,7 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -10686,7 +10689,7 @@
               "parameters": [
                 "opsiGame",
                 "=",
-                "1"
+                "Random(1)"
               ]
             }
           ],
