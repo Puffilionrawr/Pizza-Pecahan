@@ -1436,6 +1436,346 @@
         "name": "Box chat\\Rectangle 202.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "SoundMusic/BGM/bgm main menu.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "SoundMusic\\BGM\\bgm main menu.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "SoundMusic/SFX/UI/UI - not Achievement.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "SoundMusic\\SFX\\UI\\UI - not Achievement.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "SoundMusic/SFX/UI/UI - General Button.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "SoundMusic\\SFX\\UI\\UI - General Button.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Penghargaan/Group 291.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penghargaan\\Group 291.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Penghargaan/Kamu adalah Master Koki!!.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Penghargaan\\Kamu adalah Master Koki!!.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Box chat/Group 419.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box chat\\Group 419.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "SoundMusic/BGM/bgm kasir.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "SoundMusic\\BGM\\bgm kasir.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "SoundMusic/BGM/bgm gameplay masak.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "SoundMusic\\BGM\\bgm gameplay masak.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "SoundMusic/SFX/UI/Next Button.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "SoundMusic\\SFX\\UI\\Next Button.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "SoundMusic/SFX/UI/Start Menu.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "SoundMusic\\SFX\\UI\\Start Menu.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "SoundMusic/SFX/Gameplay/Character Spawn.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "SoundMusic\\SFX\\Gameplay\\Character Spawn.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "SoundMusic/SFX/Gameplay/Pizza drop.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "SoundMusic\\SFX\\Gameplay\\Pizza drop.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "SoundMusic/SFX/Gameplay/Game Win.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "SoundMusic\\SFX\\Gameplay\\Game Win.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "SoundMusic/SFX/Gameplay/Achievement.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "SoundMusic\\SFX\\Gameplay\\Achievement.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "SoundMusic/SFX/Gameplay/topping pizza.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "SoundMusic\\SFX\\Gameplay\\topping pizza.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "SoundMusic/SFX/UI/UI - Back Button.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "SoundMusic\\SFX\\UI\\UI - Back Button.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperdua/Mask group.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperdua\\Mask group.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperdua/Mask group-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperdua\\Mask group-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperdua/Mask group-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperdua\\Mask group-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperdua/Mask group-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperdua\\Mask group-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperdua/Mask group-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperdua\\Mask group-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperempat/Mask group.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperempat\\Mask group.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperempat/Mask group-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperempat\\Mask group-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperempat/Mask group-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperempat\\Mask group-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperempat/Mask group-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperempat\\Mask group-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperempat/Mask group-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperempat\\Mask group-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperenam/Mask group.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperenam\\Mask group.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperenam/Mask group-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperenam\\Mask group-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperenam/Mask group-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperenam\\Mask group-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperenam/Mask group-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperenam\\Mask group-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperenam/Mask group-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperenam\\Mask group-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperdelapan/Mask group.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperdelapan\\Mask group.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperdelapan/Mask group-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperdelapan\\Mask group-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperdelapan/Mask group-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperdelapan\\Mask group-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperdelapan/Mask group-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperdelapan\\Mask group-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Opsi/Seperdelapan/Mask group-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Opsi\\Seperdelapan\\Mask group-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Unclicked.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Unclicked",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Pizza/Potongan biasa/Group 428.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pizza\\Potongan biasa\\Group 428.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "SoundMusic/SFX/Gameplay/api.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "SoundMusic\\SFX\\Gameplay\\api.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ]
   },
@@ -1559,70 +1899,6 @@
       ],
       "animations": [
         {
-          "name": "Unclicked",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Pizza\\Potongan\\Group 322.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 31,
-                        "y": 36
-                      },
-                      {
-                        "x": 114.5,
-                        "y": 1.5
-                      },
-                      {
-                        "x": 202,
-                        "y": 31.5
-                      },
-                      {
-                        "x": 240,
-                        "y": 117
-                      },
-                      {
-                        "x": 215,
-                        "y": 197.5
-                      },
-                      {
-                        "x": 130.5,
-                        "y": 239.5
-                      },
-                      {
-                        "x": 40,
-                        "y": 209
-                      },
-                      {
-                        "x": 0,
-                        "y": 122.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Clicked",
           "useMultipleDirections": false,
           "directions": [
@@ -1632,12 +1908,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Pizza\\Potongan\\Group 323.png",
+                  "image": "Pizza\\Potongan biasa\\Group 428.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 40,
-                    "y": 40
+                    "x": 0,
+                    "y": 0
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -2280,70 +2556,6 @@
       ],
       "animations": [
         {
-          "name": "Unclicked",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Pizza\\Potongan\\Group 322.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 31,
-                        "y": 36
-                      },
-                      {
-                        "x": 114.5,
-                        "y": 1.5
-                      },
-                      {
-                        "x": 202,
-                        "y": 31.5
-                      },
-                      {
-                        "x": 240,
-                        "y": 117
-                      },
-                      {
-                        "x": 215,
-                        "y": 197.5
-                      },
-                      {
-                        "x": 130.5,
-                        "y": 239.5
-                      },
-                      {
-                        "x": 40,
-                        "y": 209
-                      },
-                      {
-                        "x": 0,
-                        "y": 122.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Clicked",
           "useMultipleDirections": false,
           "directions": [
@@ -2353,12 +2565,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Pizza\\Potongan\\Group 323.png",
+                  "image": "Pizza\\Potongan biasa\\Group 428.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 40,
-                    "y": 40
+                    "x": 0,
+                    "y": 0
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -2460,7 +2672,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Pizza\\Potongan\\Group 322.png",
+                  "image": "Pizza\\Potongan biasa\\Group 428.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2506,70 +2718,6 @@
                       {
                         "x": 0,
                         "y": 122.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Clicked",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Pizza\\Potongan\\Group 323.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 40,
-                    "y": 40
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 46.5,
-                        "y": 152
-                      },
-                      {
-                        "x": 76.5,
-                        "y": 71
-                      },
-                      {
-                        "x": 161.5,
-                        "y": 44
-                      },
-                      {
-                        "x": 244.5,
-                        "y": 73
-                      },
-                      {
-                        "x": 275.5,
-                        "y": 161
-                      },
-                      {
-                        "x": 252.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 164.5,
-                        "y": 276
-                      },
-                      {
-                        "x": 78.5,
-                        "y": 246
                       }
                     ]
                   ]
@@ -2622,70 +2770,6 @@
       ],
       "animations": [
         {
-          "name": "Unclicked",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Pizza\\Potongan\\Group 322.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 31,
-                        "y": 36
-                      },
-                      {
-                        "x": 114.5,
-                        "y": 1.5
-                      },
-                      {
-                        "x": 202,
-                        "y": 31.5
-                      },
-                      {
-                        "x": 240,
-                        "y": 117
-                      },
-                      {
-                        "x": 215,
-                        "y": 197.5
-                      },
-                      {
-                        "x": 130.5,
-                        "y": 239.5
-                      },
-                      {
-                        "x": 40,
-                        "y": 209
-                      },
-                      {
-                        "x": 0,
-                        "y": 122.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Clicked",
           "useMultipleDirections": false,
           "directions": [
@@ -2695,12 +2779,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Pizza\\Potongan\\Group 323.png",
+                  "image": "Pizza\\Potongan biasa\\Group 428.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 40,
-                    "y": 40
+                    "x": 0,
+                    "y": 0
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -2785,6 +2869,16 @@
         },
         {
           "name": "ID",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "angle",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "create",
           "type": "number",
           "value": 0
         }
@@ -3067,6 +3161,11 @@
         },
         {
           "name": "drop",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "dragablePizza",
           "type": "number",
           "value": 0
         }
@@ -3398,6 +3497,16 @@
           "name": "offsetY",
           "type": "number",
           "value": 0
+        },
+        {
+          "name": "angle",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "create",
+          "type": "number",
+          "value": 0
         }
       ],
       "effects": [],
@@ -3505,6 +3614,16 @@
           "name": "offsetY",
           "type": "number",
           "value": 0
+        },
+        {
+          "name": "angle",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "create",
+          "type": "number",
+          "value": 0
         }
       ],
       "effects": [],
@@ -3605,6 +3724,11 @@
         },
         {
           "name": "drop",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "dragablePizza",
           "type": "number",
           "value": 0
         }
@@ -3869,6 +3993,11 @@
         },
         {
           "name": "drop",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "dragablePizza",
           "type": "number",
           "value": 0
         }
@@ -4155,6 +4284,11 @@
           "name": "drop",
           "type": "number",
           "value": 0
+        },
+        {
+          "name": "dragablePizza",
+          "type": "number",
+          "value": 0
         }
       ],
       "effects": [],
@@ -4427,6 +4561,1182 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Pizzaopsi2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "ID",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "X",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Y",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "nilai",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "drop",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "dragablePizza",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
+      "animations": [
+        {
+          "name": "Polos",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperdua\\Mask group.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 7,
+                        "y": 115
+                      },
+                      {
+                        "x": 229,
+                        "y": 118
+                      },
+                      {
+                        "x": 204,
+                        "y": 192
+                      },
+                      {
+                        "x": 123,
+                        "y": 231
+                      },
+                      {
+                        "x": 29,
+                        "y": 193
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KejuDuluan",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperdua\\Mask group-1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 7,
+                        "y": 115
+                      },
+                      {
+                        "x": 229,
+                        "y": 118
+                      },
+                      {
+                        "x": 204,
+                        "y": 192
+                      },
+                      {
+                        "x": 123,
+                        "y": 231
+                      },
+                      {
+                        "x": 29,
+                        "y": 193
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SausDuluan",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperdua\\Mask group-2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 7,
+                        "y": 115
+                      },
+                      {
+                        "x": 229,
+                        "y": 118
+                      },
+                      {
+                        "x": 204,
+                        "y": 192
+                      },
+                      {
+                        "x": 123,
+                        "y": 231
+                      },
+                      {
+                        "x": 29,
+                        "y": 193
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KejuDoang",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperdua\\Mask group-3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 7,
+                        "y": 115
+                      },
+                      {
+                        "x": 229,
+                        "y": 118
+                      },
+                      {
+                        "x": 204,
+                        "y": 192
+                      },
+                      {
+                        "x": 123,
+                        "y": 231
+                      },
+                      {
+                        "x": 29,
+                        "y": 193
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SausDoang",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperdua\\Mask group-4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 7,
+                        "y": 115
+                      },
+                      {
+                        "x": 229,
+                        "y": 118
+                      },
+                      {
+                        "x": 204,
+                        "y": 192
+                      },
+                      {
+                        "x": 123,
+                        "y": 231
+                      },
+                      {
+                        "x": 29,
+                        "y": 193
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Pizzaopsi4",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "ID",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "X",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Y",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "nilai",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "drop",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "dragablePizza",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
+      "animations": [
+        {
+          "name": "Polos",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperempat\\Mask group.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 226,
+                        "y": 118
+                      },
+                      {
+                        "x": 205,
+                        "y": 188
+                      },
+                      {
+                        "x": 123,
+                        "y": 224
+                      },
+                      {
+                        "x": 120,
+                        "y": 122
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KejuDuluan",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperempat\\Mask group-4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 226,
+                        "y": 118
+                      },
+                      {
+                        "x": 205,
+                        "y": 188
+                      },
+                      {
+                        "x": 123,
+                        "y": 224
+                      },
+                      {
+                        "x": 120,
+                        "y": 122
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SausDuluan",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperempat\\Mask group-1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 226,
+                        "y": 118
+                      },
+                      {
+                        "x": 205,
+                        "y": 188
+                      },
+                      {
+                        "x": 123,
+                        "y": 224
+                      },
+                      {
+                        "x": 120,
+                        "y": 122
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KejuDoang",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperempat\\Mask group-2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 226,
+                        "y": 118
+                      },
+                      {
+                        "x": 205,
+                        "y": 188
+                      },
+                      {
+                        "x": 123,
+                        "y": 224
+                      },
+                      {
+                        "x": 120,
+                        "y": 122
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SausDoang",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperempat\\Mask group-3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 226,
+                        "y": 118
+                      },
+                      {
+                        "x": 205,
+                        "y": 188
+                      },
+                      {
+                        "x": 123,
+                        "y": 224
+                      },
+                      {
+                        "x": 120,
+                        "y": 122
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Pizzaopsi6",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "ID",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "X",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Y",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "nilai",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "drop",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "dragablePizza",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
+      "animations": [
+        {
+          "name": "Polos",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperenam\\Mask group.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 120,
+                        "y": 5
+                      },
+                      {
+                        "x": 171,
+                        "y": 18
+                      },
+                      {
+                        "x": 211,
+                        "y": 53
+                      },
+                      {
+                        "x": 119,
+                        "y": 110
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KejuDuluan",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperenam\\Mask group-1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 120,
+                        "y": 5
+                      },
+                      {
+                        "x": 171,
+                        "y": 18
+                      },
+                      {
+                        "x": 211,
+                        "y": 53
+                      },
+                      {
+                        "x": 119,
+                        "y": 110
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SausDuluan",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperenam\\Mask group-2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 120,
+                        "y": 5
+                      },
+                      {
+                        "x": 171,
+                        "y": 18
+                      },
+                      {
+                        "x": 211,
+                        "y": 53
+                      },
+                      {
+                        "x": 119,
+                        "y": 110
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KejuDoang",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperenam\\Mask group-3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 120,
+                        "y": 5
+                      },
+                      {
+                        "x": 171,
+                        "y": 18
+                      },
+                      {
+                        "x": 211,
+                        "y": 53
+                      },
+                      {
+                        "x": 119,
+                        "y": 110
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SausDoang",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperenam\\Mask group-4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 120,
+                        "y": 5
+                      },
+                      {
+                        "x": 171,
+                        "y": 18
+                      },
+                      {
+                        "x": 211,
+                        "y": 53
+                      },
+                      {
+                        "x": 119,
+                        "y": 110
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Pizzaopsi8",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "ID",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "X",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Y",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "nilai",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "drop",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "dragablePizza",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
+      "animations": [
+        {
+          "name": "Polos",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperdelapan\\Mask group.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 125,
+                        "y": 119
+                      },
+                      {
+                        "x": 224,
+                        "y": 122
+                      },
+                      {
+                        "x": 201,
+                        "y": 193
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KejuDuluan",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperdelapan\\Mask group-1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 125,
+                        "y": 119
+                      },
+                      {
+                        "x": 224,
+                        "y": 122
+                      },
+                      {
+                        "x": 201,
+                        "y": 193
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SausDuluan",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperdelapan\\Mask group-2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 125,
+                        "y": 119
+                      },
+                      {
+                        "x": 224,
+                        "y": 122
+                      },
+                      {
+                        "x": 201,
+                        "y": 193
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KejuDoang",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperdelapan\\Mask group-3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 125,
+                        "y": 119
+                      },
+                      {
+                        "x": 224,
+                        "y": 122
+                      },
+                      {
+                        "x": 201,
+                        "y": 193
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SausDoang",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Pizza\\Opsi\\Seperdelapan\\Mask group-4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 116,
+                    "y": 116
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 199,
+                    "y": 192
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 125,
+                        "y": 119
+                      },
+                      {
+                        "x": 224,
+                        "y": 122
+                      },
+                      {
+                        "x": 201,
+                        "y": 193
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -4525,6 +5835,18 @@
           },
           {
             "objectName": "PizzaPolos1"
+          },
+          {
+            "objectName": "Pizzaopsi2"
+          },
+          {
+            "objectName": "Pizzaopsi4"
+          },
+          {
+            "objectName": "Pizzaopsi6"
+          },
+          {
+            "objectName": "Pizzaopsi8"
           }
         ]
       },
@@ -4546,7 +5868,18 @@
       ]
     }
   ],
-  "variables": [],
+  "variables": [
+    {
+      "name": "levelCompleted",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "levelUsual",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,

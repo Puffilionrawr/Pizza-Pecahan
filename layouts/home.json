@@ -20,7 +20,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.4194339782759073,
+    "zoomFactor": 0.3673257545058832,
     "windowMask": false,
     "selectedLayer": ""
   },
@@ -1080,10 +1080,13 @@
       "actions": [
         {
           "type": {
-            "value": "Cache"
+            "value": "ReadNumberFromStorage"
           },
           "parameters": [
-            "SettingsGroup"
+            "\"Completed\"",
+            "\"Completed\"",
+            "",
+            "levelCompleted"
           ]
         },
         {
@@ -1094,6 +1097,27 @@
             "SettingsGroup",
             "=",
             "33"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusicCanal"
+          },
+          "parameters": [
+            "",
+            "SoundMusic\\BGM\\bgm main menu.mp3",
+            "1",
+            "yes",
+            "100",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "SettingsGroup"
           ]
         },
         {
@@ -1226,6 +1250,34 @@
             "\"linear\"",
             "1",
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "NumberVariable"
+          },
+          "parameters": [
+            "levelCompleted",
+            "=",
+            "1"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "Penghargaan",
+            "Animation",
+            "=",
+            "\"Unlocked\""
           ]
         }
       ]
@@ -1378,6 +1430,39 @@
                 ""
               ]
             }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Sound",
+                    "Clicked",
+                    "False",
+                    "false"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "SoundMusic\\SFX\\UI\\UI - not Achievement.wav",
+                    "2",
+                    "",
+                    "100",
+                    ""
+                  ]
+                }
+              ]
+            }
           ]
         }
       ]
@@ -1416,6 +1501,37 @@
         }
       ],
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "Sound",
+                "Clicked",
+                "True",
+                "false"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "SoundMusic\\SFX\\UI\\UI - General Button.wav",
+                "2",
+                "",
+                "100",
+                ""
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -1525,6 +1641,19 @@
       "actions": [
         {
           "type": {
+            "value": "PlaySoundCanal"
+          },
+          "parameters": [
+            "",
+            "SoundMusic\\SFX\\UI\\UI - General Button.wav",
+            "2",
+            "",
+            "100",
+            ""
+          ]
+        },
+        {
+          "type": {
             "value": "SetBooleanObjectVariable"
           },
           "parameters": [
@@ -1562,6 +1691,28 @@
                 "=",
                 "\"OFF\""
               ]
+            },
+            {
+              "type": {
+                "value": "ModVolumeMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVolumeSoundCanal"
+              },
+              "parameters": [
+                "",
+                "2",
+                "=",
+                "0"
+              ]
             }
           ]
         },
@@ -1591,6 +1742,99 @@
                 "=",
                 "\"ON\""
               ]
+            },
+            {
+              "type": {
+                "value": "ModVolumeMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1",
+                "=",
+                "100"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVolumeSoundCanal"
+              },
+              "parameters": [
+                "",
+                "2",
+                "=",
+                "100"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ButtonStates::ButtonFSM::IsClicked"
+          },
+          "parameters": [
+            "Home",
+            "ButtonFSM",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "Sound",
+                "Clicked",
+                "True",
+                "false"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "SoundMusic\\SFX\\UI\\UI - General Button.wav",
+                "2",
+                "",
+                "100",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "Quit"
+              },
+              "parameters": [
+                ""
+              ]
             }
           ]
         }
@@ -1616,15 +1860,80 @@
           "parameters": []
         }
       ],
-      "actions": [
+      "actions": [],
+      "events": [
         {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"Kasir\"",
-            ""
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "Sound",
+                "Clicked",
+                "True",
+                "false"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "SoundMusic\\SFX\\UI\\UI - General Button.wav",
+                "2",
+                "",
+                "100",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PrioritizeLoadingOfScene"
+              },
+              "parameters": [
+                "",
+                "\"Kasir\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AreSceneAssetsLoaded"
+              },
+              "parameters": [
+                "",
+                "\"Kasir\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Kasir\"",
+                ""
+              ]
+            }
           ]
         }
       ]
