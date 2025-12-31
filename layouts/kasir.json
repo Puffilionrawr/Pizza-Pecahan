@@ -22396,7 +22396,7 @@
       "isLocked": false,
       "name": "Settings",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
